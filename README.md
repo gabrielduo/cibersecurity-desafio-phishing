@@ -1,5 +1,9 @@
 # Phishing para captura de senhas do Spotify
 
+>Desafio de Phishing do Santander Bootcamp Cibersegurança:
+>Utiliza Kali Linux e setoolkit para simular um ataque de phishing com um template 
+>do Google, visando ensinar técnicas de cibersegurança.
+
 ### Ferramentas
 
 - Kali Linux
