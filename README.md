@@ -2,7 +2,7 @@
 
 >Desafio de Phishing do Santander Bootcamp Cibersegurança:
 >Utiliza Kali Linux e setoolkit para simular um ataque de phishing com um template 
->do Google, visando ensinar técnicas de cibersegurança.
+>do Spotify, visando ensinar técnicas de cibersegurança.
 
 ### Ferramentas
 
