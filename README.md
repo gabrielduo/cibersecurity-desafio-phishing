@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do Spotify
 
 ### Ferramentas
 
@@ -14,8 +14,8 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://accounts.spotify.com/en/login
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./image.png "Resultado")
