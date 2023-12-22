@@ -22,4 +22,4 @@
 
 ### Resutados
 
-![Alt text](./image.png "Resultado")
+![Alt text](./img.png "Resultado")
